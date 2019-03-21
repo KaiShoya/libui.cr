@@ -31,7 +31,7 @@ Add these package to your dependencies in shard.yml:
 
     dependencies:
       libui:
-        github: fusion/libui.cr
+        github: KaiShoya/libui.cr
 
 
 ## Usage
